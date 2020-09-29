@@ -1,0 +1,14 @@
+importFrom("stats", "aggregate", "cor","ave","na.omit")
+
+# Correlation based indices.
+export(Mx)
+export(Dx)
+export(Sx)
+export(PRx)
+
+#Other
+export(PI)
+export(PWA)
+export(RI)
+export(CVRi)
+export(CO)
